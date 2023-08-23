@@ -20,14 +20,9 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='file:///Users/egaguirre/Public/Kapture%202023-08-23%20at%2014.54.50.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with [Kap](https://getkap.co/) 
 
 ## App Brainstorming 
 My favorite applications and features
@@ -39,7 +34,6 @@ This app was built with the purpose of familiarizing myself with x-code. For a m
   
 ## Notes
 The main challenges of building this app was the navigating Xcode. There were so many elements that it took a few clicks to find the right item.
-
 
 ## License
 
