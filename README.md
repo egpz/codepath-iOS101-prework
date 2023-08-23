@@ -29,11 +29,17 @@ GIF created with ...
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-## App Brainstorming (Step 4)
+## App Brainstorming 
+My favorite applications and features
+- Spotify: personalized playlists, large library of media, recomendation algorithim
+- Offerup: ability to sell to a large audience from ur own home, ease of use
+- Google Maps: search feature, location information (photos, reviews, hours etc.), public transit feature
 
+This app was built with the purpose of familiarizing myself with x-code. For a more fleshed out app I plan to build a C2C suit rental marketplace for college campuses. Students would be able to list their own suit with pictures and size descriptions and make money by allowing other students to use them for events. Other students would then search the app to rent any suit they would like for their specific ocasion. It would have profiles for each user with their sizing and also an option to input special events you may need a suit for. This would then allow the app to tailer recomendations specific to the user and also remind the users to rent a suit in time. The app would then have a searachable database of suits. It would also have a chat feature or some other mode of coordinating a pickup and dropoff time and location for the suit.
+  
 ## Notes
+The main challenges of building this app was the navigating Xcode. There were so many elements that it took a few clicks to find the right item.
 
-Describe any challenges encountered while building the app.
 
 ## License
 
