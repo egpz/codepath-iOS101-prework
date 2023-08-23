@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='file:///Users/egaguirre/Public/Drop%20Box/Kapture%202023-08-23%20at%2014.54.50.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Kapture 2023-08-23 at 14.54.50.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/) 
 
